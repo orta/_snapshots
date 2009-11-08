@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'snapshots' target in the 'snapshots' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

@@ -1,0 +1,211 @@
+// !$*UTF8*$!
+{
+	2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 60ADE8D10D14673200149104 /* snapshots */;
+		activeTarget = 8D15AC270486D014006FF6A4 /* snapshots */;
+		addToTargets = (
+			8D15AC270486D014006FF6A4 /* snapshots */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 60ADE8EB0D14673D00149104 /* Code sense */;
+		executables = (
+			60ADE8D10D14673200149104 /* snapshots */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					202,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 243732745;
+			PBXWorkspaceStateSaveDate = 243732745;
+		};
+		sourceControlManager = 60ADE8EA0D14673D00149104 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1496, 938}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{425, 2117}";
+			sepNavWindowFrame = "{{15, 109}, {951, 664}}";
+		};
+	};
+	2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {790, 560}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 212}";
+			sepNavWindowFrame = "{{38, 120}, {849, 632}}";
+		};
+	};
+	2A37F4B0FDCFA73011CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {892, 592}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 256}";
+			sepNavWindowFrame = "{{15, 109}, {951, 664}}";
+		};
+	};
+	60568BA70D16D852004E5F6A /* GrowlHandler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {438, 428}}";
+			sepNavSelRange = "{322, 0}";
+			sepNavVisRange = "{0, 322}";
+			sepNavWindowFrame = "{{201, 278}, {447, 500}}";
+		};
+	};
+	60568BA80D16D852004E5F6A /* GrowlHandler.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {492, 1190}}";
+			sepNavSelRange = "{196, 0}";
+			sepNavVisRange = "{0, 867}";
+			sepNavWindowFrame = "{{330, 274}, {447, 500}}";
+		};
+	};
+	607B6F610D181C7F00FED8C4 /* ideas+todos */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 495}}";
+			sepNavSelRange = "{16, 0}";
+			sepNavVisRange = "{0, 16}";
+			sepNavWindowFrame = "{{411, 133}, {680, 623}}";
+		};
+	};
+	60ADE8D10D14673200149104 /* snapshots */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = snapshots;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	60ADE8EA0D14673D00149104 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	60ADE8EB0D14673D00149104 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	60ADE8EF0D14677400149104 /* UKFileWatcher.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 882}}";
+			sepNavSelRange = "{1347, 0}";
+			sepNavVisRange = "{801, 1391}";
+			sepNavWindowFrame = "{{15, 141}, {849, 632}}";
+		};
+	};
+	60ADE8F00D14677400149104 /* UKFileWatcher.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {703, 562}}";
+			sepNavSelRange = "{635, 0}";
+			sepNavVisRange = "{0, 1628}";
+			sepNavWindowFrame = "{{38, 118}, {762, 634}}";
+		};
+	};
+	60ADE8F10D14677400149104 /* UKFNSubscribeFileWatcher.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 700}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{269, 1445}";
+			sepNavWindowFrame = "{{61, 97}, {762, 634}}";
+		};
+	};
+	60ADE8F20D14677400149104 /* UKFNSubscribeFileWatcher.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {818, 2814}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3920, 1537}";
+			sepNavWindowFrame = "{{15, 139}, {762, 634}}";
+		};
+	};
+	60ADE8F30D14677400149104 /* UKKQueue.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1298, 1722}}";
+			sepNavSelRange = "{4307, 0}";
+			sepNavVisRange = "{2849, 1925}";
+			sepNavWindowFrame = "{{61, 99}, {849, 632}}";
+		};
+	};
+	60ADE8F70D14677400149104 /* UKKQueue Readme.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1742, 592}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1920}";
+			sepNavWindowFrame = "{{38, 88}, {951, 664}}";
+		};
+	};
+	60ADE9050D14690500149104 /* FileWatcher.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 495}}";
+			sepNavSelRange = "{305, 0}";
+			sepNavVisRange = "{0, 665}";
+			sepNavWindowFrame = "{{508, 105}, {680, 623}}";
+		};
+	};
+	60ADE9060D14690500149104 /* FileWatcher.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {858, 4256}}";
+			sepNavSelRange = "{2489, 11}";
+			sepNavVisRange = "{2344, 1275}";
+			sepNavWindowFrame = "{{150, 155}, {680, 623}}";
+		};
+	};
+	8D15AC270486D014006FF6A4 /* snapshots */ = {
+		activeExec = 0;
+		executables = (
+			60ADE8D10D14673200149104 /* snapshots */,
+		);
+	};
+	8D15AC360486D014006FF6A4 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {620, 700}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{335, 983}";
+			sepNavWindowFrame = "{{315, 138}, {592, 616}}";
+		};
+	};
+}
